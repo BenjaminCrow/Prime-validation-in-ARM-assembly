@@ -8,7 +8,7 @@ The ARM source code is embedded in a short C framework.
 The code was only texted on Linux, and you will need the following technologies to make the code work.
 
 – gcc (gcc-multilib, libc6-i386)
-– gdb.
+– gdb.<br><br>
 
 You can run the code with the following lines after you have navigated to the proper directery in the command line:
 
